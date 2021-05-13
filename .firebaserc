@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ionic-login-4924b": {
+      "hosting": {
+        "app": [
+          "ionic-login-4924b"
+        ]
+      }
+    }
+  }
+}
